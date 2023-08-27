@@ -7,10 +7,15 @@ body{
 h1{
     
     text-align: center;
+    color:chocolate;
 }
 div{
     text-align: center;
 }
 h2{
     text-align: center;
+}
+a {
+    color: #33bbff;
+    text-decoration: none;
 }

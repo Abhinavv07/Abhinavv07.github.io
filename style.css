@@ -1,6 +1,7 @@
 body{
     color: #f5e8d1;
     background:#0f1b26 ;
+     max-width: 800px;
     margin-left:auto ;
     margin-right: auto;
 }

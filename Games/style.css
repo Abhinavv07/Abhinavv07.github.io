@@ -1,0 +1,22 @@
+body {
+    color: #f5e8d1;
+    background:#0f1b26 ;
+    margin-left:auto ;
+    margin-right: auto;
+}
+h1,h2{
+    text-align: center;
+}
+em{
+    font-style: italic;
+}
+.vice{
+    text-align: center;
+}
+.andreas{
+    text-align: center;
+}
+.dues{
+    text-align: center;
+}
+

@@ -12,3 +12,15 @@ h1,h2{
 em{ 
     font-style: italic;
 }
+.button{
+    text-align: center;
+}
+.Animation{
+    text-align: center;
+}
+.wButton{
+    text-align: center;
+}
+a{
+    color: #33bbff;
+}

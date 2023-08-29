@@ -20,3 +20,12 @@ a {
     color: #33bbff;
     text-decoration: none;
 }
+@media (max-width: 480px) {
+    header {
+        padding: 60px 0;
+    }
+    
+     h1 {
+        font-size: 28px;
+    }
+}

@@ -1,38 +1,51 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css');
-body{
+
+body {
     color: #f5e8d1;
-    background:#0f1b26 ;
-    margin-left:auto ;
+    background: #0f1b26;
+    margin-left: auto;
     margin-right: auto;
     max-width: 800px;
 }
-h1{
-    
+
+h1 {
     text-align: center;
-    color:chocolate;
+    color: chocolate;
 }
-div{
-    text-align: center;
-}
-h2{
+
+div {
     text-align: center;
 }
+
+h2 {
+    text-align: center;
+}
+
 a {
     color: #33bbff;
     text-decoration: none;
 }
+
 footer {
     text-align: center;
 }
-.logos {
-    gap: 60px; 
+
+.logos a {
+    font-size: 1.5rem; 
+    margin: 0 10px;
+    color: aqua; 
 }
+
+.logos a:hover {
+    color: #0073e6; 
+}
+
 @media (max-width: 480px) {
     header {
         padding: 60px 0;
     }
     
-     h1 {
+    h1 {
         font-size: 28px;
     }
 }

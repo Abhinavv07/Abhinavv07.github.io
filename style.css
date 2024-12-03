@@ -19,6 +19,7 @@ div {
 
 h2 {
     text-align: center;
+    color: chocolate;
 }
 
 a {
@@ -28,6 +29,9 @@ a {
 
 footer {
     text-align: center;
+}
+h3 {
+    color: chocolate;
 }
 
 .logos a {
